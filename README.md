@@ -1,8 +1,3 @@
-# ECO375
-Here’s a sample `README` file for your Stata code:
-
----
-
 # README for Stata Code: Analyzing GDP per Capita Growth and Perceived Health Status
 
 ## Overview
